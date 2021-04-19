@@ -1,0 +1,25 @@
+{
+  "name": "@gbrachetta/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config",
+  "main": "index.js",
+  "author": "Guillermo Brachetta",
+  "license": "MIT",
+  "keywords": [
+    "javascript",
+    "node",
+    "prettier",
+    "prettier-config",
+    "prettierconfig",
+    "gbrachetta",
+    "guillermo brachetta"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbrachetta/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gbrachetta/prettier-config/issues"
+  },
+  "homepage": "https://github.com/gbrachetta/prettier-config#readme"
+}
